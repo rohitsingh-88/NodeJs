@@ -1,20 +1,20 @@
 # NodeJs
 
-Puppeteer to get data from website
+<h2>Puppeteer to get data from website</h2>
 
-From command crompt create project folder myapp
+<h3>From command crompt create project folder myapp</h3>
 
 mkdir myapp
 
-Go to Folder
+<h3>Go to Folder</h3>
 
 cd myapp
 
-Initialize node app
+<h3>Initialize node app</h3>
 
 npm init
 
-Install node JS Modules
+<h3>Install node JS Modules</h3>
 
 npm i express --save
 
@@ -22,9 +22,9 @@ npm i puppeteer --save
 
 npm i valid-url --save
 
-Copy app.js and functions.js to your project folder
+<h3>Copy app.js and functions.js to your project folder</h3>
 
-Run node JS App
+<h3>Run node JS App</h3>
 
 node app.js
 
