@@ -1,4 +1,12 @@
 # NodeJs
 
+Puppeteer to get data from website
 
-<h1>NodeJs Puppeteer to get data from website</h2>
+npm init
+npm i express --save
+npm i puppeteer --save
+npm i valid-url --save
+
+node app.js
+
+visit http://localhost:3000
